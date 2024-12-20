@@ -1,2 +1,2 @@
-# my-terra-tpl
+# my-terra-formation
 terraform template
