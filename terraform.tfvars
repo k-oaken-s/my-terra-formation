@@ -1,0 +1,6 @@
+region            = "ap-northeast-1"
+aws_account_id    = "xxxxxxx"
+db_admin_username = "yyyyy"
+db_admin_password = "zzzzz"
+app_username      = "xxxxxx"
+app_password      = "yyyyyy"
