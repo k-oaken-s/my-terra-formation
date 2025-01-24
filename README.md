@@ -6,6 +6,6 @@ Terraformテンプレート置き場
 
 ```
 .
-├── default-webapp-formation    # Webアプリケーション通常構成
-└── minimum-webapp-formation    # Webアプリケーション最小構成
+├── aws-default-webapp-formation    # AWS環境Webアプリケーション通常構成
+└── aws-minimum-webapp-formation    # AWS環境Webアプリケーション最小構成
 ```
